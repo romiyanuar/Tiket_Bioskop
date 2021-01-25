@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\bin\Debug\DASHBOARD.exe
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\bin\Debug\DASHBOARD.pdb
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\bin\Debug\DASHBOARD.xml
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.Form1.resources
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.Resources.resources
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.vbproj.GenerateResource.Cache
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.exe
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.xml
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.pdb
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.Login.resources
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.frmDatamaster.resources
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.frmTransaksi.resources
+C:\Users\Lenovo\Documents\romi\pbo-master\jadi\DASHBOARD\DASHBOARD\obj\x86\Debug\DASHBOARD.vbproj.ResolveComReference.cache
